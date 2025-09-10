@@ -1,0 +1,9 @@
+myenv2/
+chatbot_backend/yolov8x*.pt
+chatbot_backend/media/
+**/.env*
+!.env.example
+node_modules/
+.DS_Store
+__pycache__/
+*.log
